@@ -1,0 +1,28 @@
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.exe
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.deps.json
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.runtimeconfig.json
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.dll
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.pdb
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.AssemblyInfo.cs
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.dll
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\refint\ReservationHotel.dll
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.pdb
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.genruntimeconfig.cache
+C:\Users\AMD\Documents\LiPRO Dev\Projet C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ref\ReservationHotel.dll
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.exe
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.deps.json
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.runtimeconfig.json
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.dll
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\bin\Debug\net8.0\ReservationHotel.pdb
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.AssemblyInfoInputs.cache
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.AssemblyInfo.cs
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.csproj.CoreCompileInputs.cache
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.dll
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\refint\ReservationHotel.dll
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.pdb
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ReservationHotel.genruntimeconfig.cache
+E:\LiproGl\Developpement C#\ReservationHotel\ReservationHotel\obj\Debug\net8.0\ref\ReservationHotel.dll
